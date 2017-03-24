@@ -1,7 +1,7 @@
 current_dir = File.dirname(__FILE__)
 log_level                :info
 log_location             STDOUT
-node_name                "STIAN-PC"
+node_name                "stianfro"
 client_key               "#{current_dir}/stianfro.pem"
 validation_client_name   "froychef"
 validation_key           "#{current_dir}/froychef.pem"
